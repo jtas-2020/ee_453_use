@@ -1,0 +1,10 @@
+Added Component: Designator=PS(CONV_RS3-2415D)
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "945-2403-5-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/recom-power/RS3-2415DZ-H3/945-2403-5-ND/2321461?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Recom Power"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RS3-2415D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SIP-8 Recom Power"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RS3-2415D/Recom%20Power/view-part/3077895/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Class: Name=ee453_pcb_yourname
+Added Room: Name=ee453_pcb_yourname
