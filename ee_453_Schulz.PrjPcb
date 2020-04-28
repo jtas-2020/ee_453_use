@@ -191,126 +191,130 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for ee_453_Schulz\ee453_pcb_Schulz-RoundHoles-NonPlated.TXT
+DocumentPath=Project Outputs for ee_453_Schulz\Design Rule Check - ee453_pcb_Schulz.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for ee_453_Schulz\ee453_pcb_Schulz-RoundHoles-Plated.TXT
+DocumentPath=Project Outputs for ee_453_Schulz\ee453_pcb_Schulz-RoundHoles-NonPlated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for ee_453_Schulz\ee453_pcb_Schulz-RoundHoles.TXT
+DocumentPath=Project Outputs for ee_453_Schulz\ee453_pcb_Schulz-RoundHoles-Plated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for ee_453_Schulz\ee453_pcb_Schulz-SlotHoles-Plated.TXT
+DocumentPath=Project Outputs for ee_453_Schulz\ee453_pcb_Schulz-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for ee_453_Schulz\ee453_pcb_Schulz-SlotHoles.TXT
+DocumentPath=Project Outputs for ee_453_Schulz\ee453_pcb_Schulz-SlotHoles-Plated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for ee_453_Schulz\ee453_pcb_Schulz.DRL
+DocumentPath=Project Outputs for ee_453_Schulz\ee453_pcb_Schulz-SlotHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for ee_453_Schulz\ee453_pcb_Schulz.DRR
+DocumentPath=Project Outputs for ee_453_Schulz\ee453_pcb_Schulz.DRL
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for ee_453_Schulz\ee453_pcb_Schulz.EXTREP
+DocumentPath=Project Outputs for ee_453_Schulz\ee453_pcb_Schulz.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for ee_453_Schulz\ee453_pcb_Schulz.G1
+DocumentPath=Project Outputs for ee_453_Schulz\ee453_pcb_Schulz.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for ee_453_Schulz\ee453_pcb_Schulz.G2
+DocumentPath=Project Outputs for ee_453_Schulz\ee453_pcb_Schulz.G1
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for ee_453_Schulz\ee453_pcb_Schulz.GBL
+DocumentPath=Project Outputs for ee_453_Schulz\ee453_pcb_Schulz.G2
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for ee_453_Schulz\ee453_pcb_Schulz.GBO
+DocumentPath=Project Outputs for ee_453_Schulz\ee453_pcb_Schulz.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for ee_453_Schulz\ee453_pcb_Schulz.GBP
+DocumentPath=Project Outputs for ee_453_Schulz\ee453_pcb_Schulz.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for ee_453_Schulz\ee453_pcb_Schulz.GBS
+DocumentPath=Project Outputs for ee_453_Schulz\ee453_pcb_Schulz.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for ee_453_Schulz\ee453_pcb_Schulz.GM1
+DocumentPath=Project Outputs for ee_453_Schulz\ee453_pcb_Schulz.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for ee_453_Schulz\ee453_pcb_Schulz.GM4
+DocumentPath=Project Outputs for ee_453_Schulz\ee453_pcb_Schulz.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for ee_453_Schulz\ee453_pcb_Schulz.GM6
+DocumentPath=Project Outputs for ee_453_Schulz\ee453_pcb_Schulz.GM4
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for ee_453_Schulz\ee453_pcb_Schulz.GM10
+DocumentPath=Project Outputs for ee_453_Schulz\ee453_pcb_Schulz.GM6
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for ee_453_Schulz\ee453_pcb_Schulz.GM12
+DocumentPath=Project Outputs for ee_453_Schulz\ee453_pcb_Schulz.GM10
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for ee_453_Schulz\ee453_pcb_Schulz.GM13
+DocumentPath=Project Outputs for ee_453_Schulz\ee453_pcb_Schulz.GM12
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for ee_453_Schulz\ee453_pcb_Schulz.GM15
+DocumentPath=Project Outputs for ee_453_Schulz\ee453_pcb_Schulz.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for ee_453_Schulz\ee453_pcb_Schulz.GM16
+DocumentPath=Project Outputs for ee_453_Schulz\ee453_pcb_Schulz.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for ee_453_Schulz\ee453_pcb_Schulz.GPB
+DocumentPath=Project Outputs for ee_453_Schulz\ee453_pcb_Schulz.GM16
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for ee_453_Schulz\ee453_pcb_Schulz.GPT
+DocumentPath=Project Outputs for ee_453_Schulz\ee453_pcb_Schulz.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for ee_453_Schulz\ee453_pcb_Schulz.GTL
+DocumentPath=Project Outputs for ee_453_Schulz\ee453_pcb_Schulz.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for ee_453_Schulz\ee453_pcb_Schulz.GTO
+DocumentPath=Project Outputs for ee_453_Schulz\ee453_pcb_Schulz.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Project Outputs for ee_453_Schulz\ee453_pcb_Schulz.GTP
+DocumentPath=Project Outputs for ee_453_Schulz\ee453_pcb_Schulz.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Project Outputs for ee_453_Schulz\ee453_pcb_Schulz.GTS
+DocumentPath=Project Outputs for ee_453_Schulz\ee453_pcb_Schulz.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Project Outputs for ee_453_Schulz\ee453_pcb_Schulz.LDP
+DocumentPath=Project Outputs for ee_453_Schulz\ee453_pcb_Schulz.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Project Outputs for ee_453_Schulz\ee453_pcb_Schulz.REP
+DocumentPath=Project Outputs for ee_453_Schulz\ee453_pcb_Schulz.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument31]
+DocumentPath=Project Outputs for ee_453_Schulz\ee453_pcb_Schulz.REP
+DItemRevisionGUID=
+
+[GeneratedDocument32]
 DocumentPath=Project Outputs for ee_453_Schulz\ee453_pcb_Schulz.RUL
 DItemRevisionGUID=
 
@@ -429,12 +433,42 @@ OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
+OutputType21=SIMetrixNetlist
+OutputName21=SIMetrix
+OutputDocumentPath21=
+OutputVariantName21=
+OutputDefault21=0
+OutputType22=SIMPLISNetlist
+OutputName22=SIMPLIS
+OutputDocumentPath22=
+OutputVariantName22=
+OutputDefault22=0
+OutputType23=XSpiceNetlist
+OutputName23=XSpice Netlist
+OutputDocumentPath23=
+OutputVariantName23=
+OutputDefault23=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=OneNote
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=AdvSimNetlist
+OutputName1=Mixed Sim
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+OutputType2=SIMetrixSimulation
+OutputName2=SIMetrix
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=SIMPLISSimulation
+OutputName3=SIMPLIS
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
 
 [OutputGroup3]
 Name=Documentation Outputs
